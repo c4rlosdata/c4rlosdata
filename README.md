@@ -40,7 +40,7 @@ I believe time is our most valuable asset. At Nexus Solutions, our mission is to
 
 Feel free to explore my repositories and projects here, and don't hesitate to reach out!
 
-- **LinkedIn:** [My Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/carlos-augusto-nascimento-desenvolvedor-python/))
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/carlos-augusto-nascimento-desenvolvedor-python/)
 - **Email:** carlos.a.r.n@hotmail.com
 
 ---
